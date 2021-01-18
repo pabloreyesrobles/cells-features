@@ -1,0 +1,13 @@
+,start_event,end_event
+wn,2.39,1207.4
+spont,1209.4,1521.2
+chirp,1526.8,2188.4
+mchirp,2359.323,3629.5
+bflash,3622.3,3939.3
+gflash,3940.2,4236.6
+rflash,4293.2,4568.1
+d_chirp,4641.5,5342.1
+d_mchirp,5346.1,6774.7
+d_bflash,6760.1,7080.5
+d_gflash,7079.8,7419.5
+d_rflash,7469.8,7739.5
