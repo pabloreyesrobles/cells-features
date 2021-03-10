@@ -33,7 +33,7 @@ Se creará la carpeta results con las figuras correspondientes además de los ar
 
 Los detalles de los script a ejecutar se encuentra dentro del notebook
 
-  
+Financiado por FONDECYT Postdoctorado 3180149  
 
 [scipy]: <https://www.scipy.org/>
 
